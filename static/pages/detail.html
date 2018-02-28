@@ -1,0 +1,421 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>个人详情</title>
+    <meta name="viewport" content="width=device-width,initial-scale=1.0,user-scalable=no">
+    <meta name="keywords" content="ISSP系统首页">
+    <meta name="description" content="ISSP系统首页">
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/detail.css">
+    <link rel="stylesheet" href="/css/jquery.gridly.css">
+</head>
+<body>
+<header id="header">
+</header>
+<section class="content">
+    <section class="post-right">
+        <!-- 第一部分 -->
+        <section class="person-top">
+            <section class="person-left">
+                <div class="topUp">
+                    <div class="person-notice bg-color">
+                        <section class="detail-top">
+                            <div class="text-img">
+                                <div class="text-pos">
+                                    <h3 class="userName">admin</h3>
+                                    <p class="empNum">ike000001</p>
+                                </div>
+                                    <div class="img-outside">
+                                        <div class="img-inside">
+                                            <a href="javascript:void(0)">
+                                                <img src="../../images/person/headImg.png" alt="">
+                                            </a>
+                                        </div>
+                                    </div>
+                            </div>
+                        </section>
+                        <section class="detail-bottom">
+                            <div class="text-account">
+                                <p>
+                                    <span>13125848888</span>
+                                    <span class="col">手机号码</span>
+                                </p>
+                                <p></p>
+                                <p>
+                                    <span>13125848888@163.com</span>
+                                    <span class="col">邮箱</span>
+                                </p>
+                            </div>
+                            <div class="text-amend">
+                                <a href="password.html#1">修改手机号码</a>
+                                <a href="password.html" class="col-blue">修改密码</a>
+                            </div>
+                        </section>
+                    </div>
+                </div>
+            </section>
+            <section class="person-right">
+                <ul class="tab-image tab-if">
+                    <li class="tint-blue">
+                        <a href="https://event.issp.bjike.com/">
+                          <i></i>
+                            <span>待办事件</span>
+                            <h4 id="evenCount">0</h4>
+                            <p>待办事件数量</p>
+                            <em>
+                                <svg role="img" class="bg">
+                                    <use xlink:href="#bg"></use>
+                                </svg>
+                            </em>
+                        </a>
+                    </li>
+                    <li class="tint-green">
+                            <a href="https://feedback.issp.bjike.com/">
+                              <i></i>
+                                <span>反馈</span>
+                                <h4 id="feedBackCount">0</h4>
+                                <p>本人反馈数量</p>
+                                <em>
+                                    <svg role="img" class="bg">
+                                        <use xlink:href="#bg"></use>
+                                    </svg>
+                                </em>
+                            </a>
+                    </li>
+                    <li class="tint-orange">
+                            <a href="javascript:void(0)">
+                              <i></i>
+                                <span>公告</span>
+                                <h4 id="noticeCount">0</h4>
+                                <p>当前未读公告</p>
+                                <em>
+                                    <svg role="img" class="bg">
+                                        <use xlink:href="#bg"></use>
+                                    </svg>
+                                </em>
+                            </a>
+                    </li>
+                    <li class="tint-purple">
+                            <a href="https://taskallotment.issp.bjike.com/">
+                              <i></i>
+                                <span>任务分配</span>
+                                <h4 id="taskCount">0</h4>
+                                <p>任务完成情况</p>
+                                <em>
+                                    <svg role="img" class="bg">
+                                        <use xlink:href="#bg"></use>
+                                    </svg>
+                                </em>
+                            </a>
+                    </li>
+                </ul>
+                <ul class="tab-image1 tab-if">
+                    <li class="dark-blue">
+                                <a href="https://royalty.issp.bjike.com/">
+                                  <i></i>
+                                    <span>管理提成</span>
+                                    <h4 id="masCount">0</h4>
+                                    <p>管理提成数据</p>
+                                    <em>
+                                        <svg role="img" class="bg">
+                                            <use xlink:href="#bg"></use>
+                                        </svg>
+                                    </em>
+                                </a>
+                    </li>
+                    <li class="dark-green">
+                                <a href="https://dispatchcar.issp.bjike.com/">
+                                  <i></i>
+                                    <span>出车记录</span>
+                                    <h4 id="carCount">0</h4>
+                                    <p>出车记录</p>
+                                    <em>
+                                        <svg role="img" class="bg">
+                                            <use xlink:href="#bg"></use>
+                                        </svg>
+                                    </em>
+                                </a>
+                    </li>
+                    <li class="dark-orange">
+                                <a href="https://oilcardmanage.issp.bjike.com/">
+                                  <i></i>
+                                    <span>油卡充值</span>
+                                    <h4 id="oilCount">0</h4>
+                                    <p>充油金额</p>
+                                    <em>
+                                        <svg role="img" class="bg">
+                                            <use xlink:href="#bg"></use>
+                                        </svg>
+                                    </em>
+                                </a>
+                    </li>
+                    <li class="dark-purple">
+                                <a href="https://attendance.issp.bjike.com/">
+                                  <i></i>
+                                    <span>考勤</span>
+                                    <h4 id="checkCount">0/0/0</h4>
+                                    <p>迟到/加班/请假</p>
+                                    <em>
+                                        <svg role="img" class="bg">
+                                            <use xlink:href="#bg"></use>
+                                        </svg>
+                                    </em>
+                                </a>
+                    </li>
+                </ul>
+            </section>
+        </section>
+        <!-- 第二部分的图表 -->
+        <section class="position-center layout " id="graph-detail">
+        </section>
+        <section class="position-center layout1 " id="graph-detail1">
+        </section>
+    </section>
+</section>
+<section class="quickDiv">
+    <div class="box">
+        <div class="inner">
+            <div class="header pdding">
+                <span class="title">自定义快捷导航</span>
+                <span class="clo">×</span>
+            </div>
+            <div class="thead">
+                <div class="brick small pdding">
+                    <span>功能名称</span>
+                    <span>选用</span>
+                    <span>排序</span>
+                </div>
+            </div>
+            <div class="gridly body" id="gridome">
+            </div>
+            <div class="box_btn">
+                <button class="btn_cancal">取消</button>
+                <button class="btn_save">保存</button>
+            </div>
+        </div>
+    </div>
+</section>
+<section id="picture-mask">
+</section>
+<script type="text/javascript" src="/js/jquery-2.1.1.min.js"></script>
+<script type="text/javascript" src="/js/jquery.cookie.js"></script>
+<script src="/js/jquery.gridly.js"></script>
+<script src="/js/bootstrap.min.js"></script>
+<script src="/js/echarts.min.js"></script>
+<script src="/js/echarts-templeta5.js"></script>
+<script>
+    /************************ 加载头部和导航******************************/
+    $('#header').html(dome({title:'个人信息'}));
+    //提取公共部分
+    function dome(obj){
+        return  `<nav class="navbar navbar-inverse navbar-fixed-top nav-top">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1"
+                    aria-expanded="false">
+                    <span class="sr-only"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="#">
+                    <i>ISSP</i>平台</a>
+            </div>
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav">
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+                            <span class="glyphicon glyphicon-th-list"></span><i id="bigTitle">${obj.title}</i>
+                        </a>
+                        <ul class="dropdown-menu moveLi" >
+                            <li class="active">
+                                <a href="/system.html">个人维度</a>
+                            </li>
+                            <li>
+                                <a href="/post.html">岗位维度</a>
+                            </li>
+                            <li>
+                                <a href="/department.html">部门维度</a>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+                <div class="companyName hidden-xs">北京艾佳天诚信息技术有限公司</div>
+                <ul class="nav navbar-nav navbar-right choose  ">
+                    <li class="visible-lg">
+                        <a href="/password.html">修改密码</a>
+                    </li>
+                    <li class="visible-xs visible-lg">
+                        <a href="https://login.issp.bjike.com/login?url=https://show.issp.bjike.com/system.html" class="userName"><img style="width:25;height:25px" src="/images/one.gif" alt=""></a>
+                    </li>
+                    <li class="visible-lg">
+                        <a>|</a>
+                    </li>
+                    <li class="visible-lg">
+                        <a href="https://login.issp.bjike.com/login?url=https://show.issp.bjike.com/system.html">
+                            <em>
+                                <svg role="img" class="quit">
+                                    <use xlink:href="#quit"></use>
+                                </svg>
+                            </em>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        </nav>
+        <nav class="nav-left hidden-xs" onmouseleave="goOut()">
+        <form class="navbar-form navbar-right">
+            <div class="input-group">
+                <input type="text" class="form-control" placeholder="搜索" id="searchVal">
+                <span class="input-group-btn">
+                    <button class="btn btn-default" type="button" id="enterDown">
+                        <span class="glyphicon glyphicon-search"></span>
+                    </button>
+                </span>
+            </div>
+        </form>
+        <ul class="navMenu" id="navMenu">
+
+        </ul>
+             <div class="quickNav">
+                    <section class="quickHeader">
+                        <a href="javascript:void(0)" class="quickA" id="quickClick">
+                            <em>
+                                <svg role="img" class="addq">
+                                    <use xlink:href="#addq"></use>
+                                </svg>
+                            </em>
+                            <span>快捷导航</span>
+                        </a>
+                    </section>
+                    <ul class="quickOul">
+
+                    </ul>
+            </div>
+             <section class="searchDate">
+            </section>
+        <section class="other" id="otherNavMenu" onmouseleave="goOut(this)">
+        </section>
+        </nav>`
+    }
+    /***********************遍历nav-json开始******************************/
+    function One() {}
+    function isFour(obj) {
+        var arr = obj.four;
+        var tempFour = '<ul class="other-navMenuChild">';
+        for (var i = 0, len = arr.length; i < len; i++) {
+            tempFour +=
+                `<li>
+                        <a href="${arr[i].url}" title="${arr[i].name}">${arr[i].name}</a>
+                    </li>`
+        }
+        return tempFour += '</ul>'
+    }
+    function isThree(obj) {
+        var arr = obj.three;
+        var tempThree = '<ol class="other-part">';
+        for (var i = 0, len = arr.length; i < len; i++) {
+            if (arr[i].four) {
+                var tempFour = isFour(arr[i]);
+            }
+            tempThree +=
+                ` <li>
+                    <a href="#" onclick="childclick(this)">
+                        <span>${arr[i].name}</span>
+                        <span class="glyphicon glyphicon-menu-right"></span>
+                    </a>
+                    ${tempFour||""}
+                </li>`
+        }
+        return tempThree += '</ol>';
+    }
+    var liNum = 0;
+    function isTwo(obj) {
+        var arr = obj.two;
+        var temp = '<ul class="navMenu-child">';
+
+        for (let i = 0, len = arr.length; i < len; i++) {
+            if (arr[i].three) {
+                var tempThree = isThree(arr[i]);
+            }
+            temp +=
+                ` <li class="parentLi" onmouseover="goIn(${liNum})">
+                        <a href="#">
+                            <span>${arr[i].name}</span>
+                            <span class="glyphicon glyphicon-menu-right"></span>
+                        </a>
+                    </li>`
+            liNum++;
+            $("#otherNavMenu").append(`${tempThree||""}`)
+        }
+        return temp += '</ul>'
+    }
+    One.prototype.draw = function (obj) {
+        if (obj.two) {
+            var temp = isTwo(obj);
+        }
+
+        var templeta =
+            `<li><a href="javascript:void(0)" onclick="aclick(this)">
+                    <span class="nav-text">
+                    <svg role="img" class="${obj.icon}">
+                    <use xlink:href="#${obj.icon}"></use>
+                    </svg>${obj.name} </span>
+                    <span class="glyphicon glyphicon-menu-right"></span>
+                    </a>
+                    ${temp || ''}
+                </li>`
+        return templeta;
+    };
+    function insertOne(obj, ele) {
+        var oneData = new One();
+        ele.append(oneData.draw(obj));
+    }
+    $(document).ready(function () {
+        $.ajax({
+            dataType: 'json',
+            url: '../../nav-left.json',
+            success: function (data) {
+                var dataObj = eval(data).data;
+                //一层循环
+                $.each(dataObj, function (n1, value) {
+                    insertOne(value, $('.navMenu'));
+                });
+            }
+        });
+    });
+    function aclick(that) {
+        openChild(".navMenu", ".navMenu-child",that)
+    }
+    function childclick(that) {
+        openChild(".other-part", ".other-navMenuChild",that)
+    }
+    function openChild(ele, eleChild,that) {
+        $(ele + '>li>a>.glyphicon').removeClass("glyphicon-menu-down");
+        if ($(that).next(eleChild).hasClass('open') == false) {
+            $(ele).find(eleChild).slideUp(300);
+            $(ele).find("li").removeClass("open")
+            $(that).next(eleChild).addClass("open").slideDown(300);
+            $(that).find(".glyphicon").addClass("glyphicon-menu-down");
+        } else {
+            $(that).next(eleChild).removeClass("open").slideUp(300);
+        }
+    }
+    function goIn(liNum) {
+        $(".other").show();
+        $(".nav-left .other .other-part").hide().eq(liNum).show();
+    }
+    function goOut() {
+        $(".other").hide();
+    }
+    /***********************遍历nav-json结束******************************/
+</script>
+<script src="/js/detail.js"></script>
+
+
+</body>
+</html>

@@ -1,0 +1,17 @@
+{
+  "default":"dev",
+  "dev": {
+    "aurl": "http://172.17.205.33:5351",
+    "burl": "http://172.17.205.40:5360",
+    "curl": "http://172.17.205.50:5553",
+    "durl": "http://172.17.205.32:5350",
+    "vurl": "http://announcement.issp.bjike.com:8080",
+    "turl": "http://172.17.205.38:5354",
+    "eurl": "http://172.17.205.49:5369",
+    "furl": "http://172.17.205.64:5366",
+    "gurl": "http://royalty.issp.bjike.com:8080",
+    "hurl": "http://172.17.205.68:5260",
+    "iurl": "http://oilcardmanage.issp.bjike.com:8080",
+    "jurl": "http://172.17.205.54:5356"
+  }
+}

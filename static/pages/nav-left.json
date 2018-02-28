@@ -1,0 +1,604 @@
+{
+  "data": [{
+      "icon": "person",
+      "name": "人-综合资源部",
+      "two": [{
+          "name": "规划模块",
+          "three": [{
+              "name": "人员招聘与配置",
+              "four": [{
+                  "name": "招聘",
+                  "url": "https://recruit.issp.bjike.com/"
+                },
+                {
+                  "name": "评估体系(开发中)",
+                  "url": "#"
+                }
+              ]
+            },
+            {
+              "name": "资源规划",
+              "four": [{
+                  "name": "简介管理",
+                  "url": "https://profilemanage.issp.bjike.com/"
+                },
+                {
+                  "name": "公司战略(开发中)",
+                  "url": "#"
+                },
+                {
+                  "name": "公司资质",
+                  "url": "https://qualifications.issp.bjike.com/"
+                },
+                {
+                  "name": "公司企业文化",
+                  "url": "https://enterpriseculturemanage.issp.bjike.com/"
+                }
+              ]
+            },
+            {
+              "name": "员工发展",
+              "four": [{
+                  "name": "人员综合素养调研",
+                  "url": "https://attainment.issp.bjike.com/"
+                },
+                {
+                  "name": "个人愿景",
+                  "url": "https://individualvision.issp.bjike.com/"
+                }
+              ]
+            },
+            {
+              "name": "行政管理",
+              "four": [{
+                  "name": "考勤(加班、请假、出勤)(开发中)",
+                  "url": "https://attendance.issp.bjike.com/"
+                },
+                {
+                  "name": "车票、飞机票购买",
+                  "url": "https://buyticket.issp.bjike.com/"
+                }
+              ]
+            },
+            {
+              "name": "制度管理",
+              "four": [{
+                "name": "系统功能管理",
+                "url": "https://systematic.issp.bjike.com/"
+              }]
+            }
+          ]
+        },
+        {
+          "name": "福利模块",
+          "three": [{
+              "name": "资源规划",
+              "four": [{
+                  "name": "组织结构",
+                  "url": "https://organize.issp.bjike.com/"
+                },
+                {
+                  "name": "人员编制",
+                  "url": "https://staffing.issp.bjike.com/"
+                },
+                {
+                  "name": "人员调动",
+                  "url": "https://staffmove.issp.bjike.com/"
+                }
+              ]
+            },
+            {
+              "name": "绩效管理",
+              "four": [{
+                  "name": "项目提成",
+                  "url": "https://projectroyalty.issp.bjike.com/"
+                },
+                {
+                  "name": "业务提成",
+                  "url": "https://businesscommission.issp.bjike.com/"
+                },
+                {
+                  "name": "管理提成",
+                  "url": "https://royalty.issp.bjike.com/"
+                },
+                {
+                  "name": "资金方",
+                  "url": "https://moneyside.issp.bjike.com/"
+                },
+                {
+                  "name": "员工持股",
+                  "url": "https://staffshares.issp.bjike.com/"
+                },
+                {
+                  "name": "项目奖金包",
+                  "url": "https://bonus.issp.bjike.com/"
+                }
+              ]
+            },
+            {
+              "name": "薪酬福利",
+              "four": [{
+                  "name": "内部推荐奖",
+                  "url": "https://interiorrecommend.issp.bjike.com/"
+                },
+                {
+                  "name": "公司奖励",
+                  "url": "https://firmreward.issp.bjike.com/"
+                },
+                {
+                  "name": "公司补助",
+                  "url": "https://assistance.issp.bjike.com/"
+                },
+                {
+                  "name": "员工节日福利",
+                  "url": "https://staffwelfare.issp.bjike.com/"
+                },
+                {
+                  "name": "年假",
+                  "url": "https://annual.issp.bjike.com/"
+                },
+                {
+                  "name": "薪资管理",
+                  "url": "https://salarymanage.issp.bjike.com/"
+                },
+                {
+                  "name": "员工活动",
+                  "url": "https://staffactivity.issp.bjike.com/"
+                },
+                {
+                  "name": "法定节日",
+                  "url": "https://festival.issp.bjike.com/"
+                }
+              ]
+            },
+            {
+              "name": "员工关系",
+              "four": [{
+                  "name": "员工信息管理",
+                  "url": "https://archive.issp.bjike.com/"
+                },
+                {
+                  "name": "通讯录管理",
+                  "url": "https://contacts.issp.bjike.com/"
+                },
+                {
+                  "name": "入职管理",
+                  "url": "https://staffentry.issp.bjike.com/"
+                },
+                {
+                  "name": "商业保险管理",
+                  "url": "https://insurance.issp.bjike.com/"
+                },
+                {
+                  "name": "转正管理",
+                  "url": "https://regularization.issp.bjike.com/"
+                },
+                {
+                  "name": "员工合同管理",
+                  "url": "https://agreement.issp.bjike.com/"
+                },
+                {
+                  "name": "社保管理",
+                  "url": "https://secure.issp.bjike.com/"
+                },
+                {
+                  "name": "离职管理",
+                  "url": "https://dimission.issp.bjike.com/"
+                }
+              ]
+            },
+            {
+              "name": "员工发展",
+              "four": [{
+                  "name": "技能(等级)晋升管理",
+                  "url": "https://managepromotion.issp.bjike.com/"
+                },
+                {
+                  "name": "管理等级晋升",
+                  "url": "https://managementpromotion.issp.bjike.com/"
+                },
+                {
+                  "name": "岗位轮换",
+                  "url": "https://rotation.issp.bjike.com/"
+                }
+              ]
+            },
+            {
+              "name": "行政管理",
+              "four": [{
+                  "name": "工作交接",
+                  "url": "https://workjoin.issp.bjike.com/"
+                },
+                {
+                  "name": "物资购买",
+                  "url": "https://materialbuy.issp.bjike.com/"
+                },
+                {
+                  "name": "物资入库",
+                  "url": "https://materialinstock.issp.bjike.com/"
+                },
+                {
+                  "name": "物资盘点",
+                  "url": "https://materialtaking.issp.bjike.com/"
+                },
+                {
+                  "name": "物资维修",
+                  "url": "https://devicerepair.issp.bjike.com/#!/root"
+                },
+                {
+                  "name": "物资领用归还登记",
+                  "url": "https://materialreceive.issp.bjike.com/"
+                },
+                {
+                  "name": "物资调动",
+                  "url": "https://materialtransfer.issp.bjike.com/"
+                },
+                {
+                  "name": "物资汇总",
+                  "url": "https://materialsummary.issp.bjike.com/"
+                },
+                {
+                  "name": "快递收发管理",
+                  "url": "https://courier.issp.bjike.com/"
+                },
+                {
+                  "name": "房屋租赁、预定房间管理",
+                  "url": "https://accommodation.issp.bjike.com/"
+                },
+                {
+                  "name": "房租、水电费缴付",
+                  "url": "https://rentutilitiespay.issp.bjike.com/"
+                },
+                {
+                  "name": "入住、离宿登记",
+                  "url": "https://checkhost.issp.bjike.com/"
+                },
+                {
+                  "name": "出车记录管理",
+                  "url": "https://dispatchcar.issp.bjike.com/"
+                },
+                {
+                  "name": "油卡充值使用管理",
+                  "url": "https://oilcardmanage.issp.bjike.com/"
+                },
+                {
+                  "name": "租车协议管理",
+                  "url": "https://rentcar.issp.bjike.com/"
+                },
+                {
+                  "name": "车辆信息管理",
+                  "url": "https://carinfo.issp.bjike.com/"
+                },
+                {
+                  "name": "数据储存",
+                  "url": "https://datastore.issp.bjike.com/"
+                },
+                {
+                  "name": "会议(开发中)",
+                  "url": "#"
+                },
+                {
+                  "name": "所有工作内容汇总会议(开发中)",
+                  "url": "#"
+                },
+                {
+                  "name": "交流会议(开发中)",
+                  "url": "#"
+                },
+                {
+                  "name": "股东大会(开发中)",
+                  "url": "#"
+                },
+                {
+                  "name": "民主生活交流会(开发中)",
+                  "url": "#"
+                },
+                {
+                  "name": "协商会议(开发中)",
+                  "url": "#"
+                },
+                {
+                  "name": "商务会议(开发中)",
+                  "url": "#"
+                },
+                {
+                  "name": "员工代表大会(开发中)",
+                  "url": "#"
+                },
+                {
+                  "name": "待办事件",
+                  "url": "https://event.issp.bjike.com/"
+                },
+                {
+                  "name": "公告",
+                  "url": "#"
+                }
+              ]
+            },
+            {
+              "name": "制度管理",
+              "four": [{
+                "name": "反馈",
+                "url": "https://feedback.issp.bjike.com/"
+              }]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "icon": "thing",
+      "name": "事-综合资源部",
+      "two": [{
+        "name": "福利模块",
+        "three": [{
+          "name": "项目管理",
+          "four": [{
+              "name": "进度同步管理",
+              "url": "https://task.issp.bjike.com/"
+            },
+            {
+              "name": "任务分配管理",
+              "url": "https://taskallotment.issp.bjike.com/"
+            }
+          ]
+        }]
+      }]
+    },
+    {
+      "icon": "money",
+      "name": "钱-财务运营部",
+      "two": [{
+        "name": "预算模块",
+        "three": [{
+            "name": "收入核算管理",
+            "four": [{
+              "name": "合同单价",
+              "url": "https://contractquotemanager.issp.bjike.com/"
+            }, {
+              "name": "各地区工作进度汇总表",
+              "url": "https://workprogress.issp.bjike.com/"
+            }, {
+              "name": "往来账务情况",
+              "url": "https://budget.issp.bjike.com/"
+            }, {
+              "name": "资金回拢情况",
+              "url": "https://incomecheck.issp.bjike.com/"
+            }, {
+              "name": "收入成本分析",
+              "url": "https://analysis.issp.bjike.com/"
+            }]
+          },
+          {
+            "name": "项目成本管理",
+            "four": [{
+              "name": "项目前期的市场活动费",
+              "url": "https://projectmarketfee.issp.bjike.com/"
+            }, {
+              "name": "项目内发生的费用",
+              "url": "https://projectcost.issp.bjike.com/"
+            }, {
+              "name": "管理费用",
+              "url": "https://managefee.issp.bjike.com/"
+            }, {
+              "name": "应交税金",
+              "url": "https://accruedtax.issp.bjike.com/"
+            }, {
+              "name": "其他费用",
+              "url": "https://otherexpenses.issp.bjike.com/"
+            }, {
+              "name": "费用标准",
+              "url": "https://coststandard.issp.bjike.com/"
+            }]
+          }, {
+            "name": "指标卡",
+            "four": [{
+              "name": "平衡计分卡",
+              "url": "https://balancecard.issp.bjike.com/"
+            }]
+          }
+        ]
+      }, {
+        "name": "资金模块",
+        "three": [{
+          "name": "公司用车管理",
+          "four": [{
+            "name": "出车费准备与支付",
+            "url": "https://outcarfare.issp.bjike.com/"
+          }, {
+            "name": "油卡充值准备与支付",
+            "url": "https://oilcardprepared.issp.bjike.com/"
+          }]
+        }, {
+          "name": "公司房屋管理",
+          "four": [{
+            "name": "房屋费用资金准备与支付",
+            "url": "https://housepay.issp.bjike.com/"
+          }]
+        }, {
+          "name": "公司设备管理",
+          "four": [{
+            "name": "设备购买资金准备与支付",
+            "url": "https://equipmentprepared.issp.bjike.com/"
+          }, {
+            "name": "设备入库盘点",
+            "url": "https://deviceinventory.issp.bjike.com/"
+          }]
+        }, {
+          "name": "公司员工费用管理",
+          "four": [{
+            "name": "借款报销资金准备与发放",
+            "url": "https://reimbursementprepare.issp.bjike.com/"
+          }, {
+            "name": "员工工资资金准备与支付",
+            "url": "https://staffpay.issp.bjike.com/"
+          }, {
+            "name": "奖金资金准备与支付",
+            "url": "https://bonusmoneyperparepay.issp.bjike.com/"
+          }]
+        }, {
+          "name": "公司合同管理",
+          "four": [{
+            "name": "合同保管",
+            "url": "https://contractware.issp.bjike.com/"
+          }]
+        }, {
+          "name": "现金流水账管理",
+          "four": [{
+            "name": "资金流水账核对与存档",
+            "url": "https://checkfunds.issp.bjike.com/"
+          }]
+        }, {
+          "name": "资金计划表",
+          "four": [{
+            "name": "回款管理",
+            "url": "https://receivable.issp.bjike.com/"
+          }, {
+            "name": "成本明细",
+            "url": "https://costdetail.issp.bjike.com/"
+          }, {
+            "name": "资金准备",
+            "url": "https://moneyprepare.issp.bjike.com/"
+          }, {
+            "name": "资金核对",
+            "url": "https://fundcheck.issp.bjike.com/"
+          }]
+        }]
+      }, {
+        "name": "账务模块",
+        "three": [{
+          "name": "请款报销管理",
+          "four": [{
+            "name": "出车管理",
+            "url": "https://financedispatch.issp.bjike.com/"
+          }, {
+            "name": "费用借款与报销管理",
+            "url": "https://lendreimbursement.issp.bjike.com/"
+          }]
+        }, {
+          "name": "工资核算管理",
+          "four": [{
+            "name": "薪资核算、确认、发放管理",
+            "url": "https://salaryconfirm.issp.bjike.com/"
+          }, {
+            "name": "社保缴费管理",
+            "url": "https://socialfee.issp.bjike.com/"
+          }]
+        }, {
+          "name": "财务报表管理",
+          "four": [{
+            "name": "银行流水",
+            "url": "https://bankrecords.issp.bjike.com/"
+          }, {
+            "name": "资金流水",
+            "url": "https://fundrecords.issp.bjike.com/"
+          }, {
+            "name": "记账凭证",
+            "url": "https://voucher.issp.bjike.com/"
+          }, {
+            "name": "明细账",
+            "url": "https://account.issp.bjike.com/"
+          }, {
+            "name": "科目汇总表",
+            "url": "https://subjectcollect.issp.bjike.com/"
+          }, {
+            "name": "报表管理",
+            "url": "https://reportmanagement.issp.bjike.com/"
+          }, {
+            "name": "财务初始化",
+            "url": "https://financeinit.issp.bjike.com/"
+          }]
+        }, {
+          "name": "账务对外管理",
+          "four": [{
+            "name": "通信系统集成资质进度汇总表",
+            "url": "https://qualifications.issp.bjike.com/"
+          }, {
+            "name": "对外税务",
+            "url": "https://foreigntax.issp.bjike.com/"
+          }, {
+            "name": "工商注册、年检、变更",
+            "url": "https://business.issp.bjike.com/"
+          }, {
+            "name": "股东管理",
+            "url": "https://shareholdersmanage.issp.bjike.com/"
+          }]
+        }]
+      }]
+    },
+    {
+      "icon": "matter",
+      "name": "商务-商务发展部",
+      "two": [{
+        "name": "客户管理(CM)",
+        "three": [{
+          "name": "客户管理(CM)",
+          "four": [{
+            "name": "市场招待",
+            "url": "https://marketactivitymanage.issp.bjike.com/"
+          }, {
+            "name": "市场开发计划、进度管理",
+            "url": "https://marketdevelopment.issp.bjike.com/"
+          }, {
+            "name": "客户信息管理",
+            "url": "https://custom.issp.bjike.com/"
+          }, {
+            "name": "项目测算(包括投标和未投标的项目)",
+            "url": "https://projectmeasure.issp.bjike.com/"
+          }, {
+            "name": "竞争对手管理",
+            "url": "https://competitormanage.issp.bjike.com/"
+          }, {
+            "name": "商务洽谈",
+            "url": "https://contractcommunicat.issp.bjike.com/"
+          }, {
+            "name": "供应商信息管理",
+            "url": "https://supplier.issp.bjike.com/"
+          }, {
+            "name": "市场信息管理",
+            "url": "https://market.issp.bjike.com/"
+          }, {
+            "name": "商业能力展示",
+            "url": "https://capability.issp.bjike.com/"
+          }, {
+            "name": "商业能力互动信息管理",
+            "url": "https://businessinteraction.issp.bjike.com/"
+          }]
+        }]
+      }, {
+        "name": "业务管理(BM)",
+        "three": [{
+          "name": "业务管理(BM)",
+          "four": [{
+            "name": "招投标流程管理",
+            "url": "https://bidding.issp.bjike.com/"
+          }, {
+            "name": "商务合同管理",
+            "url": "https://businessproject.issp.bjike.com/"
+          }, {
+            "name": "商务合同管理(新)",
+            "url": "https://pact.issp.bjike.com/"
+          }, {
+            "name": "商务总结(开发中)",
+            "url": "#"
+          }]
+        }]
+      }, {
+        "name": "进度管理(SM)",
+        "three": [{
+          "name": "进度管理(SM)",
+          "four": [{
+            "name": "项目结算进度管理",
+            "url": "https://projectprocing.issp.bjike.com/"
+          }, {
+            "name": "项目中问题受理和处理",
+            "url": "https://projectissuehandle.issp.bjike.com/"
+          }, {
+            "name": "项目实施进度管理(开发中)",
+            "url": "#"
+          }]
+        }]
+      }]
+    }
+  ]
+}
