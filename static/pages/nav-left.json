@@ -467,6 +467,11 @@
       }, {
         "name": "账务模块",
         "three": [{
+          "name": "财务初始化",
+          "four": [{
+            "name": "财务初始化",
+            "url": "https://financeinit.issp.bjike.com/"
+          }]},{
           "name": "请款报销管理",
           "four": [{
             "name": "出车管理",
@@ -504,9 +509,6 @@
           }, {
             "name": "报表管理",
             "url": "https://reportmanagement.issp.bjike.com/"
-          }, {
-            "name": "财务初始化",
-            "url": "https://financeinit.issp.bjike.com/"
           }]
         }, {
           "name": "账务对外管理",
